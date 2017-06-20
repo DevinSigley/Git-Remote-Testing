@@ -1,0 +1,5 @@
+*.vcxproj
+.vs/
+Debug/
+*.vcxproj.filters
+*.vcxproj.user
